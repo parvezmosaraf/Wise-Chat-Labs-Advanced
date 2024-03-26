@@ -16,3 +16,4 @@ certifi
 git+https://github.com/openai/whisper.git
 streamlit-audiorecorder
 whisper
+sqlite3 >= 3.35.0
